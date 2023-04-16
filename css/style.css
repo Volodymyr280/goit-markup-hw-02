@@ -261,7 +261,7 @@ letter-spacing: 0.02em;
   |============================
 */
 .team {
-	background-color: var(--color-cloud) ;
+background-color: #F4F4FD ;
 }
 .team-title {
 }
@@ -269,7 +269,7 @@ letter-spacing: 0.02em;
 
 }
 .team-item {
-	color: #FFFFFF;
+	background-color: #FFFFFF;
 }
 .team-img {
 }
